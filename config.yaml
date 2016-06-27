@@ -1,0 +1,9 @@
+---
+    box: ascapacita
+    name: ascapacita-dev
+    hostname: vm.ascapacita.local
+    provider: virtualbox
+    ram: 256
+    cpus: 1
+    gui: false
+    projects-folder: "/www"
